@@ -1,0 +1,1503 @@
+Month,Customer,Change Type,ARR Change
+Dec 18,Achieve,New,18500.0
+Dec 18,Affinity,New,3000.0
+Dec 18,Airtm,New,6000.0
+Dec 18,Apptio,New,10134.0
+Dec 18,Asana,New,12000.0
+Dec 18,Ascend.io,New,13500.0
+Dec 18,Autodesk,New,5000.0
+Dec 18,AvidXchange,New,3000.0
+Dec 18,Benchling,New,7500.0
+Dec 18,Bloomberg Second Measure,New,10000.0
+Dec 18,Cohesity,New,35000.0
+Dec 18,Dalhousie University,New,8250.0
+Dec 18,Ethos,New,8875.0
+Dec 18,Forge,New,10000.0
+Dec 18,General Assembly,New,6000.0
+Dec 18,Hack Reactor,New,6000.0
+Dec 18,Handshake,New,30000.0
+Dec 18,Indeed,New,6000.0
+Dec 18,Infinity,New,5000.0
+Dec 18,NepFin,New,5000.0
+Dec 18,Oasis Labs,New,16800.0
+Dec 18,Procore Technologies,New,35000.0
+Dec 18,Procter & Gamble Company,New,5000.0
+Dec 18,Recursion Pharmaceuticals,New,7500.0
+Dec 18,SBB Research Group LLC,New,5000.0
+Dec 18,ServiceTitan,New,6000.0
+Dec 18,Thrive,New,13000.0
+Dec 18,Uber,New,15000.0
+Dec 18,Union Bank,New,40000.0
+Dec 18,Waltz,New,4500.0
+Dec 18,WanderJaunt,New,5000.0
+Jan 19,2U,New,10000.0
+Jan 19,Arundo Analytics,New,7500.0
+Jan 19,Dan.com,New,3000.0
+Jan 19,FICO,New,12500.0
+Jan 19,"IDEXX Laboratories, Inc.",New,5000.0
+Jan 19,Industry Dive,New,9000.0
+Jan 19,Kforce,New,92250.0
+Jan 19,Pure Storage,New,11000.0
+Jan 19,RedRoute,New,3000.0
+Jan 19,Thumbtack,New,25000.0
+Jan 19,Uber,Lost,-15000.0
+Jan 19,Universal Robots,New,5000.0
+Feb 19,Adidas,New,11400.0
+Feb 19,Celo,New,10000.0
+Feb 19,Glu Mobile,New,8000.0
+Mar 19,ASSURANCE,New,6000.0
+Mar 19,ezCater,New,6000.0
+Mar 19,Hack Reactor,Expansion,3000.0
+Mar 19,Handshake,Lost,-30000.0
+Mar 19,Innovit,New,5000.0
+Mar 19,KLA Tencor,New,5000.0
+Mar 19,Lenovo,New,6000.0
+Mar 19,Logik,New,7500.0
+Mar 19,Scientific Games,New,7500.0
+Mar 19,Uber,New,12000.0
+Apr 19,Asana,Lost,-12000.0
+Apr 19,Dalhousie University,Expansion,5748.0
+Apr 19,Dynamic Signal,New,7500.0
+Apr 19,General Assembly,Expansion,150000.0
+Apr 19,The Kive Company,New,3000.0
+May 19,AQR,New,20000.0
+May 19,Indra,New,15000.0
+May 19,OnceHub,New,6000.0
+May 19,Quora,New,20000.0
+May 19,SPINS,New,7710.0
+Jun 19,Aditi Consulting,New,6000.0
+Jun 19,CakeResume,New,5538.0
+Jun 19,Hammerhead,New,4000.0
+Jun 19,Interactive Resources - iR,New,7000.0
+Jun 19,Kaseya,New,16000.0
+Jun 19,Liftoff,New,6000.0
+Jun 19,Macy's,New,17820.0
+Jun 19,OpenSesame,New,5500.0
+Jun 19,Quizlet,New,2000.0
+Jun 19,Robinhood,New,18500.0
+Jun 19,Text IQ,New,3000.0
+Jul 19,"ALEX - Alternative Experts, LLC",New,2700.0
+Jul 19,Ascend.io,Lost,-13500.0
+Jul 19,Autodesk,Contraction,-2000.0
+Jul 19,Bloomberg Second Measure,Contraction,-5000.0
+Jul 19,Greenhouse,New,5000.0
+Jul 19,Kforce,Expansion,28600.0
+Jul 19,Laurel Road,New,30000.0
+Jul 19,Outtalent,New,3000.0
+Jul 19,SkillSoft,New,25200.0
+Aug 19,eBay,New,49680.0
+Aug 19,Pinger,New,6000.0
+Aug 19,Plain Concepts,New,5000.0
+Aug 19,Postmates,New,95000.0
+Aug 19,Robert Half International,New,56250.0
+Aug 19,Thrive,Lost,-13000.0
+Aug 19,Uber,Lost,-12000.0
+Aug 19,Untapped,New,1000.0
+Sep 19,AvidXchange,Lost,-3000.0
+Sep 19,Infinity,Lost,-5000.0
+Sep 19,Intersog,New,2500.0
+Sep 19,Juniper Square,New,5000.0
+Sep 19,Mobilize.Net,New,2900.0
+Sep 19,Olympic Channel,New,3000.0
+Sep 19,Outreach Corporation,New,12000.0
+Sep 19,RunTitle,New,1000.0
+Sep 19,Scientific Research Corporation,New,2000.0
+Sep 19,TripActions,New,15000.0
+Sep 19,"Vectra AI, Inc.",New,10640.0
+Sep 19,Verkada,New,19500.0
+Sep 19,WanderJaunt,Contraction,-2500.0
+Sep 19,Wizeline,New,10000.0
+Oct 19,Affinity,Lost,-3000.0
+Oct 19,Airtm,Lost,-6000.0
+Oct 19,Beacon Hill Staffing Group,New,10000.0
+Oct 19,Benchling,Contraction,-1500.0
+Oct 19,Bloomberg Second Measure,Lost,-5000.0
+Oct 19,Bolt,New,6000.0
+Oct 19,Credijusto,New,9000.0
+Oct 19,Crossover,New,25000.0
+Oct 19,Daasity,New,3000.0
+Oct 19,Foxtrot,New,4100.0
+Oct 19,Grasshopper,New,3000.0
+Oct 19,Indeed,Lost,-6000.0
+Oct 19,Microsoft,New,12000.0
+Oct 19,MIM Software,New,8500.0
+Oct 19,Oasis Labs,Contraction,-3132.0
+Oct 19,RedZone Robotics,New,5400.0
+Oct 19,Vkontakte,New,21400.0
+Nov 19,Celo,Expansion,1582.0
+Nov 19,Joppy,New,6000.0
+Nov 19,Plaid,New,15000.0
+Nov 19,Procore Technologies,Lost,-35000.0
+Nov 19,Reddit,New,5000.0
+Nov 19,Stats Perform,New,8000.0
+Nov 19,Uber,New,210000.0
+Nov 19,Waltz,Lost,-4500.0
+Dec 19,Block,New,8000.0
+Dec 19,Correnet,New,3000.0
+Dec 19,Costco Travel,New,6000.0
+Dec 19,Dalhousie University,Expansion,802.0
+Dec 19,EverQuote,New,17000.0
+Dec 19,General Assembly,Contraction,-6000.0
+Dec 19,Helm.ai,New,5200.0
+Dec 19,Innovalog,New,2000.0
+Dec 19,Luminar Technologies,New,7800.0
+Dec 19,Motive Technologies,New,15692.0
+Dec 19,Robert Half International,Lost,-56250.0
+Dec 19,ServiceTitan,Lost,-6000.0
+Dec 19,Unholster,New,4000.0
+Dec 19,Union Bank,Lost,-40000.0
+Jan 20,2U,Expansion,6500.0
+Jan 20,Apptio,Lost,-10134.0
+Jan 20,Autodesk,Expansion,12000.0
+Jan 20,Consumer Edge Research,New,7200.0
+Jan 20,Dan.com,Lost,-3000.0
+Jan 20,Faire,New,19269.0
+Jan 20,"IDEXX Laboratories, Inc.",Lost,-5000.0
+Jan 20,Kforce,Contraction,-12580.0
+Jan 20,Nextdoor,New,30000.0
+Jan 20,Pure Storage,Lost,-11000.0
+Jan 20,RedRoute,Lost,-3000.0
+Jan 20,Softwire,New,8000.0
+Jan 20,Thumbtack,Lost,-25000.0
+Jan 20,TrendMD,New,10575.0
+Jan 20,Universal Robots,Lost,-5000.0
+Jan 20,UruIT,New,4500.0
+Feb 20,Adidas,Expansion,4100.0
+Feb 20,AQR,Expansion,1129.0
+Feb 20,Aquent,New,4000.0
+Feb 20,Blue Trail Software,New,9000.0
+Feb 20,Celo,Expansion,1250.0
+Feb 20,Glu Mobile,Lost,-8000.0
+Feb 20,Price.com,New,4000.0
+Feb 20,SevenRooms,New,4536.0
+Feb 20,Verafin,New,6000.0
+Mar 20,ASSURANCE,Lost,-6000.0
+Mar 20,Brex,New,20001.0
+Mar 20,Costco,New,41000.0
+Mar 20,ezCater,Lost,-6000.0
+Mar 20,Harvey Nash plc,New,4800.0
+Mar 20,Innovit,Lost,-5000.0
+Mar 20,Insight Data Science,New,15000.0
+Mar 20,KLA Tencor,Lost,-5000.0
+Mar 20,Liftoff,Expansion,3092.0
+Mar 20,Logik,Lost,-7500.0
+Mar 20,OppLoans,New,13160.0
+Mar 20,Union Bank,New,40000.0
+Apr 20,Alto Pharmacy,New,28700.0
+Apr 20,ASSURANCE,New,6000.0
+Apr 20,CivilGEO,New,15000.0
+Apr 20,Consumer Edge Research,Lost,-7200.0
+Apr 20,FlatWorld.co,New,7200.0
+Apr 20,General Assembly,Lost,-150000.0
+Apr 20,Helm.ai,Lost,-5200.0
+Apr 20,Neat,New,3000.0
+Apr 20,NEO,New,10000.0
+Apr 20,The Kive Company,Lost,-3000.0
+Apr 20,Upwork,New,40000.0
+Apr 20,Verkada,Expansion,16666.0
+Apr 20,Washington State Labor & Industries,New,10735.0
+May 20,Advantis Global,New,3000.0
+May 20,AQR,Contraction,-17629.0
+May 20,Asana,New,30000.0
+May 20,Autodesk,Expansion,4000.0
+May 20,Bloom Institute of Technology,New,41800.0
+May 20,Feedzai,New,13999.0
+May 20,General Assembly,New,8000.0
+May 20,GovSpend,New,5799.0
+May 20,HIRECLOUT,New,3000.0
+May 20,Indra,Lost,-15000.0
+May 20,Moloco Ads,New,6501.0
+May 20,Netflix,New,55652.0
+May 20,OnceHub,Contraction,-500.0
+May 20,SPINS,Contraction,-1286.0
+May 20,The Fountain Group,New,6000.0
+May 20,Verafin,Expansion,9033.0
+Jun 20,1Password,New,15000.0
+Jun 20,Adroll,New,25000.0
+Jun 20,BairesDev,New,30000.0
+Jun 20,Bright Cellars,New,8000.0
+Jun 20,Gusto,New,13500.0
+Jun 20,Hammerhead,Lost,-4000.0
+Jun 20,Helm.ai,New,5200.0
+Jun 20,Idea Entity,New,5600.0
+Jun 20,Interactive Resources - iR,Lost,-7000.0
+Jun 20,Kforce,Contraction,-28600.0
+Jun 20,LeanData,New,3500.0
+Jun 20,Liftoff,Contraction,-92.0
+Jun 20,Macy's,Contraction,-12282.0
+Jun 20,OpenSesame,Lost,-5500.0
+Jun 20,Picsart,New,11001.0
+Jun 20,Pinecone Systems (Previously Hypercube),New,3500.0
+Jun 20,Quizlet,Lost,-2000.0
+Jun 20,Robinhood,Expansion,6500.0
+Jun 20,TechGenies,New,6000.0
+Jun 20,UruIT,Expansion,2250.0
+Jul 20,"ALEX - Alternative Experts, LLC",Lost,-2700.0
+Jul 20,Ameriflex Inc,New,7500.0
+Jul 20,AQR,Expansion,861.0
+Jul 20,Crayon Group,New,9000.0
+Jul 20,Databricks,New,65500.0
+Jul 20,Greenhouse,Lost,-5000.0
+Jul 20,Kforce,Expansion,95330.0
+Jul 20,Laurel Road,Expansion,10000.0
+Jul 20,NepFin,Lost,-5000.0
+Jul 20,Reddit,Expansion,12923.0
+Jul 20,SkillSoft,Lost,-25200.0
+Jul 20,Turing College,New,4500.0
+Aug 20,Cylera,New,6000.0
+Aug 20,Gusto,Expansion,13286.0
+Aug 20,Hammerhead,New,4000.0
+Aug 20,Innovit,New,5000.0
+Aug 20,Interactive Resources - iR,New,7200.0
+Aug 20,Long-Term Stock Exchange,New,9000.0
+Aug 20,Macy's,Expansion,949.0
+Aug 20,meta,New,233143.0
+Aug 20,Netflix,Expansion,7418.0
+Aug 20,Recursion Pharmaceuticals,Lost,-7500.0
+Aug 20,Samsara,New,15500.0
+Aug 20,Scale AI,New,6500.0
+Aug 20,SkillSoft,New,21000.0
+Aug 20,SPINS,Lost,-6424.0
+Aug 20,Susquehanna International Group,New,45000.0
+Aug 20,Untapped,Lost,-1000.0
+Sep 20,Achieve,Lost,-18500.0
+Sep 20,Adidas,Expansion,6800.0
+Sep 20,ANDIA,New,7200.0
+Sep 20,Clear Street,New,12500.0
+Sep 20,Dropbox,New,350000.0
+Sep 20,FullStack Labs,New,7500.0
+Sep 20,Human Capital,New,20000.0
+Sep 20,Instacart,New,51000.0
+Sep 20,Interactive Resources - iR,Lost,-7200.0
+Sep 20,Macy's,Expansion,779.0
+Sep 20,Niantic,New,45000.0
+Sep 20,Olympic Channel,Contraction,-150.0
+Sep 20,OpenSesame,New,5500.0
+Sep 20,Pixellu LLC,New,3000.0
+Sep 20,Play’n GO,New,40000.0
+Sep 20,Recursion Pharmaceuticals,New,7500.0
+Sep 20,RunTitle,Lost,-1000.0
+Sep 20,SafeGraph,New,6000.0
+Sep 20,Scientific Research Corporation,Lost,-2000.0
+Sep 20,Talent Path,New,3500.0
+Sep 20,TripActions,Lost,-15000.0
+Sep 20,Verkada,Contraction,-19500.0
+Sep 20,Zoom,New,100000.0
+Oct 20,AQR,Expansion,505.0
+Oct 20,Bolt,Lost,-6000.0
+Oct 20,Celo,Expansion,12443.0
+Oct 20,Cradlepoint,New,35000.0
+Oct 20,Credijusto,Lost,-9000.0
+Oct 20,Curai Health,New,6000.0
+Oct 20,Digital Diagnostics,New,7000.0
+Oct 20,Faire,Expansion,9000.0
+Oct 20,Foxtrot,Contraction,-1100.0
+Oct 20,Lifesouth Community Blood Centers,New,10000.0
+Oct 20,MIM Software,Expansion,2150.0
+Oct 20,Oasis Labs,Lost,-13668.0
+Oct 20,PhonePe,New,21000.0
+Oct 20,Verkada,Expansion,31667.0
+Oct 20,Vkontakte,Lost,-21400.0
+Nov 20,ANDIA,Lost,-7200.0
+Nov 20,Block,Expansion,10269.0
+Nov 20,Chime,New,35000.0
+Nov 20,D. E. Shaw & Co.,New,12000.0
+Nov 20,Formation,New,2000.0
+Nov 20,Happy Money,New,25000.0
+Nov 20,Joppy,Contraction,-240.0
+Nov 20,Kaizen Gaming,New,20000.0
+Nov 20,Match Group,New,30000.0
+Nov 20,One World Coders,New,3000.0
+Nov 20,PhazeRo,New,7500.0
+Nov 20,Thinx,New,3000.0
+Nov 20,Yugabyte,New,8000.0
+Dec 20,Achieve,New,3000.0
+Dec 20,Capital One,New,696000.0
+Dec 20,Correnet,Lost,-3000.0
+Dec 20,Costco Travel,Expansion,3000.0
+Dec 20,Dalhousie University,Contraction,-3700.0
+Dec 20,Deep Labs,New,7500.0
+Dec 20,EverQuote,Expansion,13000.0
+Dec 20,GoTalent,New,7500.0
+Dec 20,Innovalog,Lost,-2000.0
+Dec 20,Luminar Technologies,Lost,-7800.0
+Dec 20,Macy's,Expansion,977.0
+Dec 20,ManyPets (Formerly Bought By Many),New,6000.0
+Dec 20,Rhythm Software,New,6000.0
+Dec 20,Rippling,New,15000.0
+Dec 20,Rx Savings Solutions,New,17000.0
+Dec 20,Shippo,New,8500.0
+Dec 20,Survey Monkey,New,10000.0
+Dec 20,Trusted Health,New,7500.0
+Jan 21,2U,Contraction,-750.0
+Jan 21,Elastic,New,84923.0
+Jan 21,Fabric,New,10000.0
+Jan 21,Faire,Expansion,4731.0
+Jan 21,FICO,Expansion,7500.0
+Jan 21,Greenhouse,New,5000.0
+Jan 21,Huckleberry,New,6000.0
+Jan 21,Industry Dive,Lost,-9000.0
+Jan 21,Integra Holdings,New,6000.0
+Jan 21,Liberty Mutual Insurance,New,160000.0
+Jan 21,Luminar Technologies,New,8500.0
+Jan 21,meta,Contraction,-96000.0
+Jan 21,Motive Technologies,Expansion,1308.0
+Jan 21,Netflix,Contraction,-16695.0
+Jan 21,Nextdoor,Contraction,-12000.0
+Jan 21,Rithm School,New,6000.0
+Jan 21,UNION,New,4000.0
+Jan 21,Untapped,New,5000.0
+Jan 21,UruIT,Contraction,-2250.0
+Jan 21,Watershed Informatics,New,6000.0
+Feb 21,Adidas,Expansion,16620.0
+Feb 21,Appfire Technologies,New,10000.0
+Feb 21,Aquent,Lost,-4000.0
+Feb 21,Block,Expansion,30871.0
+Feb 21,Capicua,New,3000.0
+Feb 21,Celo,Contraction,-10275.0
+Feb 21,D. E. Shaw & Co.,Lost,-12000.0
+Feb 21,Emburse,New,10000.0
+Feb 21,finalsite,New,6000.0
+Feb 21,Highnote,New,10000.0
+Feb 21,Lantum,New,3000.0
+Feb 21,LOGIGROUP,New,10000.0
+Feb 21,Netmidas,New,3250.0
+Feb 21,Plain Concepts,Lost,-5000.0
+Feb 21,Price.com,Lost,-4000.0
+Feb 21,RBC Capital,New,15000.0
+Feb 21,Roadie Music by Band Industries,New,3000.0
+Feb 21,SeatGeek,New,30000.0
+Feb 21,SevenRooms,Expansion,464.0
+Feb 21,Starkey Hearing Technologies,New,14000.0
+Feb 21,Sure Co,New,7000.0
+Feb 21,The Trade Desk,New,37500.0
+Feb 21,Two Men And A Truck/International,New,7000.0
+Feb 21,Verafin,Contraction,-6083.0
+Feb 21,WW,New,17200.0
+Mar 21,Adidas,Contraction,-6800.0
+Mar 21,Afterpay,New,55000.0
+Mar 21,Agoda.com,New,44000.0
+Mar 21,Arctic Wolf,New,35000.0
+Mar 21,Brainspace,New,11500.0
+Mar 21,Brex,Contraction,-1.0
+Mar 21,Elphinstone,New,5000.0
+Mar 21,Harvey Nash plc,Lost,-4800.0
+Mar 21,Hi-Rez Studios,New,15000.0
+Mar 21,Insight Data Science,Lost,-15000.0
+Mar 21,Iterable,New,50000.0
+Mar 21,Lenovo,Lost,-6000.0
+Mar 21,Macy's,Expansion,237.0
+Mar 21,Matroid,New,6000.0
+Mar 21,meta,Expansion,185357.0
+Mar 21,OppLoans,Expansion,11840.0
+Mar 21,Paddle,New,9000.0
+Mar 21,Recursion Pharmaceuticals,Expansion,510.0
+Mar 21,Roblox,New,378495.0
+Mar 21,RXNT,New,7000.0
+Mar 21,Tecknuovo,New,7000.0
+Mar 21,The Marcy Lab School,New,5000.0
+Mar 21,Tilda,New,7000.0
+Mar 21,UpEquity,New,6000.0
+Mar 21,Verafin,Contraction,-2950.0
+Mar 21,Wizeline,Expansion,39831.0
+Mar 21,Yotascale,New,7500.0
+Apr 21,2U,Expansion,65026.0
+Apr 21,Aequilibrium,New,8500.0
+Apr 21,ASSURANCE,Lost,-6000.0
+Apr 21,BuildZoom,New,5000.0
+Apr 21,Cube Dev,New,6000.0
+Apr 21,DevRev,New,9000.0
+Apr 21,East Penn Manufacturing Co,New,6000.0
+Apr 21,GoodTime.io,New,15000.0
+Apr 21,Insticator,New,7000.0
+Apr 21,KoBre Companies,New,3500.0
+Apr 21,Trunk,New,4000.0
+Apr 21,"Vectra AI, Inc.",Expansion,15523.0
+Apr 21,Washington State Labor & Industries,Contraction,-835.0
+May 21,AQR,Expansion,3995.0
+May 21,Asana,Expansion,10000.0
+May 21,Autodesk,Contraction,-1.0
+May 21,DataLab USA,New,6000.0
+May 21,Kohlberg Kravis Roberts & Co. L.P.,New,6000.0
+May 21,Match Group,Lost,-30000.0
+May 21,Moloco Ads,Contraction,-1.0
+May 21,Netflix,Expansion,53625.0
+May 21,Pangea,New,5000.0
+May 21,Panorama Education,New,15000.0
+May 21,RBC Capital,Expansion,230000.0
+May 21,Recursion Pharmaceuticals,Expansion,8200.0
+May 21,Shipt,New,35000.0
+May 21,Step,New,15000.0
+May 21,The Fountain Group,Lost,-6000.0
+May 21,Workfront,New,60500.0
+May 21,Zippin,New,15000.0
+May 21,ZipRecruiter,New,45000.0
+Jun 21,1Password,Lost,-15000.0
+Jun 21,Access Development,New,6000.0
+Jun 21,Aditi Consulting,Contraction,-1000.0
+Jun 21,Adroll,Lost,-25000.0
+Jun 21,Atom Finance,New,8000.0
+Jun 21,Beacon,New,15000.0
+Jun 21,Biolinq,New,6000.0
+Jun 21,D. E. Shaw & Co.,New,75000.0
+Jun 21,eBay,Expansion,60000.0
+Jun 21,Farmers Business Network,New,5000.0
+Jun 21,Fenergo,New,27500.0
+Jun 21,Idea Entity,Lost,-5600.0
+Jun 21,Kaseya,Expansion,500.0
+Jun 21,Linus Health,New,9000.0
+Jun 21,Mapped,New,6000.0
+Jun 21,Novo,New,5000.0
+Jun 21,PayPay,New,53000.0
+Jun 21,Picsart,Contraction,-1.0
+Jun 21,Pinterest,New,180000.0
+Jun 21,Plutus Commerce,New,6000.0
+Jun 21,ProCogia,New,8000.0
+Jun 21,Robinhood,Expansion,35000.0
+Jun 21,Skalable Technologies,New,5000.0
+Jun 21,Tempo,New,17500.0
+Jun 21,Treasury Prime,New,6000.0
+Jun 21,Two Sigma,New,140000.0
+Jun 21,UruIT,Contraction,-2250.0
+Jun 21,Vaivoa,New,10000.0
+Jun 21,Veritext,New,10500.0
+Jul 21,AmaliTech,New,5000.0
+Jul 21,AQR,Contraction,-861.0
+Jul 21,Ascend.io,New,9000.0
+Jul 21,Cherre,New,9000.0
+Jul 21,Circle,New,88000.0
+Jul 21,Delta Trainer,New,6000.0
+Jul 21,Drata,New,7500.0
+Jul 21,EmpleosTI,New,7000.0
+Jul 21,Helm.ai,Expansion,1550.0
+Jul 21,Invisible Technologies,New,6000.0
+Jul 21,Macy's,Contraction,-7464.0
+Jul 21,Match Group,New,50000.0
+Jul 21,Oowlish,New,10000.0
+Jul 21,Qualified.com,New,3000.0
+Jul 21,Redesign Health,New,16000.0
+Jul 21,Roman Health Ventures Inc.,New,28000.0
+Jul 21,Stellar Development Foundation,New,12000.0
+Jul 21,Turing College,Lost,-4500.0
+Jul 21,Yoco Technologies (PTY) Ltd,New,10000.0
+Aug 21,Airkit,New,4500.0
+Aug 21,Airlift Technologies,New,15000.0
+Aug 21,Concourse Labs,New,4000.0
+Aug 21,Cylera,Lost,-6000.0
+Aug 21,Egen,New,19500.0
+Aug 21,Graphite,New,8000.0
+Aug 21,Hammerhead,Lost,-4000.0
+Aug 21,Indent,New,10000.0
+Aug 21,Postmates,Lost,-95000.0
+Aug 21,Radar,New,10000.0
+Aug 21,Reddit,Contraction,-12923.0
+Aug 21,Think Research,New,7569.0
+Sep 21,Array,New,15000.0
+Sep 21,Capital One,Contraction,-146000.0
+Sep 21,ClickUp,New,24000.0
+Sep 21,Dropbox,Expansion,190000.0
+Sep 21,GoodTime.io,Expansion,12041.0
+Sep 21,Human Capital,Expansion,53000.0
+Sep 21,Instacart,Expansion,1300.0
+Sep 21,Macy's,Contraction,-779.0
+Sep 21,Mind Source,New,10000.0
+Sep 21,Modern Treasury,New,10000.0
+Sep 21,nCino,New,37000.0
+Sep 21,Niantic,Contraction,-1450.0
+Sep 21,Outreach Corporation,Expansion,6000.0
+Sep 21,Pixellu LLC,Lost,-3000.0
+Sep 21,Recursion Pharmaceuticals,Contraction,-8010.0
+Sep 21,Root Inc,New,50000.0
+Sep 21,Safeboda,New,5000.0
+Sep 21,ShopDev,New,15000.0
+Sep 21,Talent Path,Expansion,3500.0
+Sep 21,"Vectra AI, Inc.",Contraction,-6163.0
+Sep 21,WanderJaunt,Lost,-2500.0
+Sep 21,WEBB Traders,New,7000.0
+Sep 21,Wizeline,Contraction,-13164.0
+Oct 21,Acres Manufacturing,New,10000.0
+Oct 21,Bego,New,9000.0
+Oct 21,Cradlepoint,Expansion,22500.0
+Oct 21,Deviget LLC,New,9000.0
+Oct 21,Foxtrot,Expansion,5500.0
+Oct 21,Human Capital,Expansion,15500.0
+Oct 21,iQmetrix,New,30000.0
+Oct 21,Lily AI,New,10000.0
+Oct 21,Microsoft,Lost,-12000.0
+Oct 21,Oasis Labs,New,15000.0
+Oct 21,Okta,New,70000.0
+Oct 21,OpenAsset,New,6000.0
+Oct 21,OpenSesame,Expansion,8250.0
+Oct 21,Verkada,Lost,-48333.0
+Oct 21,VidMob,New,37500.0
+Nov 21,Aircrew,New,10000.0
+Nov 21,Carbyne,New,10000.0
+Nov 21,Faro Health,New,10000.0
+Nov 21,Fermata Energy,New,7000.0
+Nov 21,Forward Financing,New,12000.0
+Nov 21,Glossier,New,15000.0
+Nov 21,Joppy,Lost,-5760.0
+Nov 21,OPSWAT,New,10000.0
+Nov 21,Plaid,Expansion,2000.0
+Nov 21,Playground Global,New,15000.0
+Nov 21,Procter & Gamble Company,Lost,-5000.0
+Nov 21,Reddit,Expansion,14385.0
+Nov 21,Trexin Consulting,New,13000.0
+Nov 21,Uber,Expansion,6300.0
+Nov 21,Valora,New,8000.0
+Nov 21,Verkada,New,40000.0
+Nov 21,vMOX,New,10000.0
+Nov 21,Yugabyte,Expansion,5750.0
+Dec 21,Achieve,Expansion,1000.0
+Dec 21,Autodesk,Expansion,10001.0
+Dec 21,Block,Expansion,23260.0
+Dec 21,Dream11,New,16000.0
+Dec 21,Envoy,New,20000.0
+Dec 21,Gem,New,17000.0
+Dec 21,GoTalent,Lost,-7500.0
+Dec 21,HIGH5,New,32500.0
+Dec 21,Journera,New,12000.0
+Dec 21,Kinetik,New,6000.0
+Dec 21,MBO Partners,New,25000.0
+Dec 21,NovaKid,New,15000.0
+Dec 21,Orders.co,New,5000.0
+Dec 21,Rippling,Expansion,5000.0
+Dec 21,Rx Savings Solutions,Expansion,6400.0
+Dec 21,Shippo,Expansion,3500.0
+Dec 21,Survey Monkey,Expansion,25000.0
+Dec 21,Uniswap,New,10000.0
+Jan 22,2U,Expansion,7824.0
+Jan 22,Abnormal AI,New,12000.0
+Jan 22,Arundo Analytics,Expansion,3000.0
+Jan 22,Athliance,New,5000.0
+Jan 22,Coinbase,New,145000.0
+Jan 22,Dalhousie University,Expansion,990.0
+Jan 22,Double Yolk,New,5000.0
+Jan 22,Drizly,New,29000.0
+Jan 22,Exceptionly,New,20000.0
+Jan 22,Hiya,New,7500.0
+Jan 22,Huckleberry,Lost,-6000.0
+Jan 22,Integra Holdings,Lost,-6000.0
+Jan 22,Macy's,Expansion,18350.0
+Jan 22,Monthly,New,10000.0
+Jan 22,Notion,New,20000.0
+Jan 22,Orca Mobility,New,13000.0
+Jan 22,Riziv Inami,New,11000.0
+Jan 22,Roadie,New,22500.0
+Jan 22,TrendMD,Lost,-10575.0
+Jan 22,UruIT,Expansion,750.0
+Jan 22,Velocity Clinical Research,New,9000.0
+Jan 22,Virtualmind,New,12000.0
+Feb 22,Adidas,Expansion,48468.0
+Feb 22,Cue Health,New,36375.0
+Feb 22,Dottid,New,10000.0
+Feb 22,Highnote,Contraction,-2500.0
+Feb 22,Lantum,Lost,-3000.0
+Feb 22,Lasso Marketing,New,15000.0
+Feb 22,Match Group,Expansion,30193.0
+Feb 22,Nelly,New,10000.0
+Feb 22,Netmidas,Lost,-3250.0
+Feb 22,Pattern Jobs,New,6000.0
+Feb 22,Podium,New,25000.0
+Feb 22,RBC Capital,Contraction,-15000.0
+Feb 22,Roadie Music by Band Industries,Lost,-3000.0
+Feb 22,Sanofi,New,39000.0
+Feb 22,SeatGeek,Expansion,15000.0
+Feb 22,Seniorly,New,10000.0
+Feb 22,Stream,New,8500.0
+Feb 22,Sure Co,Lost,-7000.0
+Mar 22,Adidas,Expansion,15000.0
+Mar 22,Arctic Wolf,Expansion,39000.0
+Mar 22,Axented,New,7000.0
+Mar 22,Boosted Commerce,New,10000.0
+Mar 22,Brainspace,Lost,-11500.0
+Mar 22,Brex,Expansion,20000.0
+Mar 22,Calibrate,New,11500.0
+Mar 22,ClimateAI,New,10000.0
+Mar 22,Costco,Lost,-41000.0
+Mar 22,FloQast,New,30000.0
+Mar 22,Hudson River Trading,New,81000.0
+Mar 22,Iterable,Expansion,5000.0
+Mar 22,Jasper,New,13000.0
+Mar 22,Juni,New,10000.0
+Mar 22,meta,Expansion,157500.0
+Mar 22,OppLoans,Lost,-25000.0
+Mar 22,Paddle,Expansion,3000.0
+Mar 22,Parallel Systems,New,12800.0
+Mar 22,PayJunction,New,10000.0
+Mar 22,Qubit9,New,8000.0
+Mar 22,Roblox,Expansion,80000.0
+Mar 22,STG Consulting,New,10000.0
+Mar 22,Söderberg & Partners,New,13500.0
+Mar 22,Tecknuovo,Lost,-7000.0
+Mar 22,The Boring Company,New,93000.0
+Mar 22,Union Bank,Lost,-40000.0
+Mar 22,Upbound,New,9000.0
+Mar 22,UpEquity,Lost,-6000.0
+Mar 22,Vouch Insurance,New,20000.0
+Mar 22,Yotascale,Lost,-7500.0
+Apr 22,Aequilibrium,Lost,-8500.0
+Apr 22,Constellation Brands,New,66500.0
+Apr 22,East Penn Manufacturing Co,Lost,-6000.0
+Apr 22,eBay,Expansion,150320.0
+Apr 22,Found,New,10000.0
+Apr 22,GoodTime.io,Contraction,-41.0
+Apr 22,HubSpot,New,15000.0
+Apr 22,Insticator,Lost,-7000.0
+Apr 22,KoBre Companies,Lost,-3500.0
+Apr 22,Korapay,New,8500.0
+Apr 22,Lambda Labs,New,10000.0
+Apr 22,Lokalise,New,15000.0
+Apr 22,Maqta Gateway,New,4000.0
+Apr 22,Practice,New,8500.0
+Apr 22,Pult,New,7000.0
+Apr 22,Teads US,New,21000.0
+Apr 22,Tigris Data Inc,New,10000.0
+Apr 22,Trunk,Contraction,-1000.0
+May 22,AQR,Contraction,-3000.0
+May 22,Asana,Expansion,40000.0
+May 22,Bloom Institute of Technology,Expansion,200.0
+May 22,Feedzai,Expansion,1.0
+May 22,General Assembly,Expansion,4000.0
+May 22,Glassdoor,New,10000.0
+May 22,GovSpend,Expansion,1.0
+May 22,HIRECLOUT,Lost,-3000.0
+May 22,Hubly,New,10000.0
+May 22,Intropic,New,10000.0
+May 22,JW Player,New,15000.0
+May 22,Kohlberg Kravis Roberts & Co. L.P.,Expansion,2000.0
+May 22,Maqta Gateway,Lost,-4000.0
+May 22,Moloco Ads,Expansion,1500.0
+May 22,Netflix,Expansion,20000.0
+May 22,OnceHub,Contraction,-1000.0
+May 22,Pangea,Lost,-5000.0
+May 22,Panorama Education,Expansion,2000.0
+May 22,PatientPoint,New,17000.0
+May 22,Picnic,New,10500.0
+May 22,Pleo,New,11000.0
+May 22,Prysm,New,10000.0
+May 22,Recursion Pharmaceuticals,Lost,-8200.0
+May 22,Speechify,New,9000.0
+May 22,Step,Expansion,7500.0
+May 22,Visa,New,172000.0
+Jun 22,Aditi Consulting,Expansion,1000.0
+Jun 22,Anitian,New,10000.0
+Jun 22,Beacon,Lost,-15000.0
+Jun 22,Biolinq,Lost,-6000.0
+Jun 22,Bright Cellars,Lost,-8000.0
+Jun 22,D. E. Shaw & Co.,Expansion,5250.0
+Jun 22,Empirico,New,10000.0
+Jun 22,Farmers Business Network,Expansion,4999.0
+Jun 22,Fenergo,Lost,-27500.0
+Jun 22,Graphite Health,New,10000.0
+Jun 22,LayerZero Labs,New,12000.0
+Jun 22,LeanData,Lost,-3500.0
+Jun 22,Linus Health,Lost,-9000.0
+Jun 22,ManyPets (Formerly Bought By Many),Lost,-6000.0
+Jun 22,Mapped,Lost,-6000.0
+Jun 22,OpenSesame,Expansion,2754.0
+Jun 22,Pinterest,Expansion,12600.0
+Jun 22,Plutus Commerce,Lost,-6000.0
+Jun 22,ProCogia,Lost,-8000.0
+Jun 22,Rippling,Lost,-20000.0
+Jun 22,TechGenies,Lost,-6000.0
+Jun 22,Tempo,Expansion,15000.0
+Jun 22,Text IQ,Lost,-3000.0
+Jun 22,Treasury Prime,Lost,-6000.0
+Jun 22,Two Sigma,Lost,-140000.0
+Jun 22,Vaivoa,Lost,-10000.0
+Jun 22,Veritext,Expansion,500.0
+Jul 22,Ameriflex Inc,Lost,-7500.0
+Jul 22,Circle,Expansion,37500.0
+Jul 22,Crayon Group,Lost,-9000.0
+Jul 22,Dandy,New,16000.0
+Jul 22,Delta Trainer,Lost,-6000.0
+Jul 22,Drata,Lost,-7500.0
+Jul 22,Helm.ai,Lost,-6750.0
+Jul 22,Instabase,New,11189.0
+Jul 22,Invisible Technologies,Lost,-6000.0
+Jul 22,Macy's,Contraction,-237.0
+Jul 22,Match Group,Contraction,-193.0
+Jul 22,Mysten Labs,New,10000.0
+Jul 22,Qualified.com,Lost,-3000.0
+Jul 22,RF-SMART,New,22500.0
+Jul 22,Stackline,New,10000.0
+Aug 22,Airkit,Expansion,3000.0
+Aug 22,Airlift Technologies,Lost,-15000.0
+Aug 22,Banxware,New,7000.0
+Aug 22,Concourse Labs,Lost,-4000.0
+Aug 22,Egen,Lost,-19500.0
+Aug 22,Graphite,Lost,-8000.0
+Aug 22,Indent,Lost,-10000.0
+Aug 22,Long-Term Stock Exchange,Lost,-9000.0
+Aug 22,Scale AI,Lost,-6500.0
+Aug 22,SkillSoft,Lost,-21000.0
+Aug 22,Think Research,Lost,-7569.0
+Aug 22,Vana,New,7333.0
+Aug 22,Visa,Expansion,458666.0
+Aug 22,VoltaGrid,New,10000.0
+Sep 22,Built,New,60000.0
+Sep 22,Clear Street,Expansion,2500.0
+Sep 22,ClickUp,Expansion,5000.0
+Sep 22,Dropbox,Expansion,40000.0
+Sep 22,Human Capital,Contraction,-53000.0
+Sep 22,Instacart,Expansion,3184.0
+Sep 22,Modern Treasury,Expansion,12500.0
+Sep 22,Olympic Channel,Lost,-2850.0
+Sep 22,Outreach Corporation,Contraction,-6000.0
+Sep 22,Race Roster,New,22500.0
+Sep 22,Safeboda,Lost,-5000.0
+Sep 22,ShopDev,Lost,-15000.0
+Sep 22,Talent Path,Lost,-7000.0
+Sep 22,"Vectra AI, Inc.",Expansion,5000.0
+Sep 22,WorkGenius,New,30000.0
+Sep 22,Zoom,Expansion,80000.0
+Oct 22,Acres Manufacturing,Lost,-10000.0
+Oct 22,Beacon Hill Staffing Group,Lost,-10000.0
+Oct 22,Bego,Lost,-9000.0
+Oct 22,Benchling,Expansion,5000.0
+Oct 22,Cohesity,Expansion,5000.0
+Oct 22,Crossover,Expansion,10000.0
+Oct 22,Curai Health,Expansion,5000.0
+Oct 22,Daasity,Lost,-3000.0
+Oct 22,Dalhousie University,Expansion,6910.0
+Oct 22,Deviget LLC,Lost,-9000.0
+Oct 22,Digital Diagnostics,Lost,-7000.0
+Oct 22,Foxtrot,Lost,-8500.0
+Oct 22,Grasshopper,Lost,-3000.0
+Oct 22,Human Capital,Contraction,-15500.0
+Oct 22,iQmetrix,Expansion,10000.0
+Oct 22,Lifesouth Community Blood Centers,Lost,-10000.0
+Oct 22,Lily AI,Lost,-10000.0
+Oct 22,MIM Software,Contraction,-1500.0
+Oct 22,Oasis Labs,Lost,-15000.0
+Oct 22,PhonePe,Expansion,3000.0
+Oct 22,Pinger,Lost,-6000.0
+Oct 22,RedZone Robotics,Lost,-5400.0
+Oct 22,VidMob,Lost,-37500.0
+Nov 22,Aircrew,Lost,-10000.0
+Nov 22,Carbyne,Lost,-10000.0
+Nov 22,Chime,Expansion,14000.0
+Nov 22,Faro Health,Lost,-10000.0
+Nov 22,Fermata Energy,Lost,-7000.0
+Nov 22,Formation,Expansion,7000.0
+Nov 22,Forward Financing,Lost,-12000.0
+Nov 22,Glossier,Lost,-15000.0
+Nov 22,Happy Money,Lost,-25000.0
+Nov 22,Kaizen Gaming,Expansion,2000.0
+Nov 22,LayerZero Labs,Lost,-12000.0
+Nov 22,One World Coders,Lost,-3000.0
+Nov 22,OPSWAT,Lost,-10000.0
+Nov 22,PhazeRo,Lost,-7500.0
+Nov 22,Playground Global,Lost,-15000.0
+Nov 22,Reddit,Expansion,10615.0
+Nov 22,SBB Research Group LLC,Lost,-5000.0
+Nov 22,Stats Perform,Expansion,3000.0
+Nov 22,Thinx,Lost,-3000.0
+Nov 22,Toyota,New,39000.0
+Nov 22,Trexin Consulting,Lost,-13000.0
+Nov 22,Uber,Expansion,6489.0
+Nov 22,Valora,Lost,-8000.0
+Nov 22,Verkada,Expansion,10000.0
+Nov 22,Visa,Contraction,-172000.0
+Nov 22,Yugabyte,Expansion,5584.0
+Dec 22,Achieve,Lost,-4000.0
+Dec 22,Autodesk,Contraction,-26000.0
+Dec 22,Block,Lost,-72400.0
+Dec 22,Costco Travel,Lost,-9000.0
+Dec 22,Deep Labs,Lost,-7500.0
+Dec 22,Dream11,Lost,-16000.0
+Dec 22,Envoy,Lost,-20000.0
+Dec 22,EverQuote,Lost,-30000.0
+Dec 22,Gem,Lost,-17000.0
+Dec 22,Google,New,1.0
+Dec 22,HIGH5,Lost,-32500.0
+Dec 22,Journera,Lost,-12000.0
+Dec 22,Kinetik,Lost,-6000.0
+Dec 22,Klaviyo,New,44000.0
+Dec 22,NovaKid,Lost,-15000.0
+Dec 22,NuoDB,New,16000.0
+Dec 22,Orders.co,Lost,-5000.0
+Dec 22,PayPay,Expansion,30000.0
+Dec 22,RE Partners,New,13000.0
+Dec 22,Rhythm Software,Lost,-6000.0
+Dec 22,Rx Savings Solutions,Expansion,15600.0
+Dec 22,Shippo,Lost,-12000.0
+Dec 22,Survey Monkey,Contraction,-3500.0
+Dec 22,Unholster,Lost,-4000.0
+Dec 22,Uniswap,Expansion,3000.0
+Jan 23,Abnormal AI,Expansion,8000.0
+Jan 23,Arundo Analytics,Expansion,1000.0
+Jan 23,Athliance,Lost,-5000.0
+Jan 23,Coinbase,Expansion,12750.0
+Jan 23,Double Yolk,Lost,-5000.0
+Jan 23,Drizly,Lost,-29000.0
+Jan 23,Egen,New,27000.0
+Jan 23,Exceptionly,Lost,-20000.0
+Jan 23,Fabric,Lost,-10000.0
+Jan 23,Humanetics Innovative Solutions,New,19000.0
+Jan 23,Luminar Technologies,Expansion,1500.0
+Jan 23,Macy's,Lost,-18350.0
+Jan 23,Mastercard,New,200000.0
+Jan 23,Monthly,Lost,-10000.0
+Jan 23,Nextdoor,Expansion,4310.0
+Jan 23,Notion,Expansion,10000.0
+Jan 23,Orca Mobility,Lost,-13000.0
+Jan 23,Rithm School,Expansion,2000.0
+Jan 23,Roadie,Expansion,1500.0
+Jan 23,Softwire,Expansion,2000.0
+Jan 23,UNION,Lost,-4000.0
+Jan 23,Untapped,Lost,-5000.0
+Jan 23,UruIT,Lost,-3000.0
+Jan 23,Velocity Clinical Research,Expansion,4000.0
+Jan 23,Virtualmind,Lost,-12000.0
+Jan 23,Watershed Informatics,Expansion,1200.0
+Feb 23,Adidas,Contraction,-20588.0
+Feb 23,Anthropic,New,21500.0
+Feb 23,Appfire Technologies,Lost,-10000.0
+Feb 23,Celo,Lost,-15000.0
+Feb 23,Dottid,Lost,-10000.0
+Feb 23,Highnote,Lost,-7500.0
+Feb 23,Lasso Marketing,Lost,-15000.0
+Feb 23,LOGIGROUP,Expansion,1000.0
+Feb 23,Maqta Gateway,New,40000.0
+Feb 23,Nelly,Contraction,-5000.0
+Feb 23,Okta,Expansion,142804.0
+Feb 23,Pattern Jobs,Expansion,4000.0
+Feb 23,SeatGeek,Expansion,15000.0
+Feb 23,Seniorly,Lost,-10000.0
+Feb 23,SevenRooms,Expansion,1000.0
+Feb 23,Starkey Hearing Technologies,Lost,-14000.0
+Feb 23,Stream,Lost,-8500.0
+Feb 23,Verafin,Lost,-6000.0
+Feb 23,Visa,Expansion,240334.0
+Mar 23,Afterpay,Lost,-55000.0
+Mar 23,Agoda.com,Expansion,17000.0
+Mar 23,Alignment Research Center,New,23760.0
+Mar 23,Arctic Wolf,Expansion,5000.0
+Mar 23,Axented,Lost,-7000.0
+Mar 23,Boosted Commerce,Lost,-10000.0
+Mar 23,Elphinstone,Lost,-5000.0
+Mar 23,FloQast,Contraction,-5000.0
+Mar 23,Helm.ai,New,13000.0
+Mar 23,Iterable,Expansion,3000.0
+Mar 23,Jasper,Lost,-13000.0
+Mar 23,meta,Contraction,-180000.0
+Mar 23,Paddle,Lost,-12000.0
+Mar 23,Qubit9,Lost,-8000.0
+Mar 23,Race Roster,Contraction,-5625.0
+Mar 23,Roblox,Expansion,112505.0
+Mar 23,Söderberg & Partners,Contraction,-2500.0
+Mar 23,The Boring Company,Contraction,-74000.0
+Mar 23,The Marcy Lab School,Expansion,5000.0
+Mar 23,Tilda,Lost,-7000.0
+Mar 23,Vooban,New,15000.0
+Apr 23,Actriv Healthcare,New,21500.0
+Apr 23,BuildZoom,Lost,-5000.0
+Apr 23,Bungie,New,47138.0
+Apr 23,Code.org,New,8000.0
+Apr 23,Constellation Brands,Lost,-66500.0
+Apr 23,DevRev,Expansion,7000.0
+Apr 23,Found,Contraction,-2500.0
+Apr 23,Graphite Health,Expansion,8500.0
+Apr 23,Headway,New,19600.0
+Apr 23,HubSpot,Expansion,215.0
+Apr 23,iQmetrix,Contraction,-16000.0
+Apr 23,Lambda Labs,Lost,-10000.0
+Apr 23,Lokalise,Lost,-15000.0
+Apr 23,Neat,Lost,-3000.0
+Apr 23,Nimble Gravity,New,15000.0
+Apr 23,Okta,Contraction,-70000.0
+Apr 23,Practice,Lost,-8500.0
+Apr 23,Pult,Lost,-7000.0
+Apr 23,Rappi,New,20000.0
+Apr 23,Teads US,Lost,-21000.0
+Apr 23,Tigris Data Inc,Lost,-10000.0
+Apr 23,Upwork,Expansion,24000.0
+Apr 23,Washington State Labor & Industries,Expansion,2750.0
+May 23,Asana,Expansion,4000.0
+May 23,Bloom Institute of Technology,Expansion,2700.0
+May 23,General Assembly,Lost,-12000.0
+May 23,Glassdoor,Lost,-10000.0
+May 23,Hertz Global Holdings,New,19000.0
+May 23,Hubly,Expansion,1.0
+May 23,Netflix,Expansion,12500.0
+May 23,Olympus Corporation of the Americas,New,17710.0
+May 23,OnceHub,Lost,-4500.0
+May 23,Panorama Education,Lost,-17000.0
+May 23,PatientPoint,Expansion,1000.0
+May 23,Picnic,Lost,-10500.0
+May 23,Plaid,Contraction,-8500.0
+May 23,Pleo,Contraction,-4500.0
+May 23,Quora,Contraction,-10000.0
+May 23,Step,Lost,-22500.0
+May 23,StubHub,New,32403.0
+May 23,Workfront,Contraction,-48000.0
+May 23,Zippin,Lost,-15000.0
+Jun 23,Access Development,Lost,-6000.0
+Jun 23,Aditi Consulting,Lost,-6000.0
+Jun 23,Anitian,Contraction,-3000.0
+Jun 23,BairesDev,Lost,-30000.0
+Jun 23,D. E. Shaw & Co.,Expansion,8025.0
+Jun 23,Duolingo,New,38300.0
+Jun 23,Farmers Business Network,Lost,-9999.0
+Jun 23,Graphite Health,Contraction,-10000.0
+Jun 23,Novo,Lost,-5000.0
+Jun 23,OpenSesame,Lost,-16504.0
+Jun 23,Pear VC,New,10000.0
+Jun 23,Ramp,New,21500.0
+Jun 23,Robinhood,Expansion,5000.0
+Jun 23,Tempo,Lost,-32500.0
+Jun 23,The Boston Consulting Group,New,139000.0
+Jun 23,Veritext,Lost,-11000.0
+Jul 23,Anthropic,Expansion,118914.0
+Jul 23,APEX LOGIC,New,7000.0
+Jul 23,Autodesk,Lost,-3000.0
+Jul 23,Cherre,Lost,-9000.0
+Jul 23,Dandy,Contraction,-7000.0
+Jul 23,EmpleosTI,Lost,-7000.0
+Jul 23,Laurel Road,Lost,-40000.0
+Jul 23,Match Group,Expansion,4000.0
+Jul 23,Oowlish,Lost,-10000.0
+Jul 23,Oscar Health,New,23910.0
+Jul 23,Redesign Health,Expansion,3000.0
+Jul 23,RF-SMART,Expansion,900.0
+Jul 23,Spotnana Technology,New,25000.0
+Jul 23,Stackline,Lost,-10000.0
+Jul 23,Stellar Development Foundation,Expansion,4000.0
+Jul 23,StubHub,Expansion,14850.0
+Jul 23,VAST,New,7000.0
+Aug 23,Adidas,Contraction,-60000.0
+Aug 23,Autodesk,New,25000.0
+Aug 23,Innovit,Lost,-5000.0
+Aug 23,Lucid,New,19000.0
+Aug 23,Samsara,Expansion,7900.0
+Aug 23,Susquehanna International Group,Expansion,5000.0
+Sep 23,Array,Contraction,-6000.0
+Sep 23,b2broker,New,15000.0
+Sep 23,CakeResume,Expansion,2462.0
+Sep 23,ClickUp,Contraction,-4000.0
+Sep 23,Coinbase,Expansion,122250.0
+Sep 23,D. E. Shaw & Co.,Expansion,64735.0
+Sep 23,FloQast,Expansion,5000.0
+Sep 23,FullStack Labs,Lost,-7500.0
+Sep 23,Graystone Trading,New,12000.0
+Sep 23,Human Capital,Lost,-20000.0
+Sep 23,Innovit,New,5000.0
+Sep 23,Instacart,Expansion,5519.0
+Sep 23,Intersog,Lost,-2500.0
+Sep 23,Kwalee,New,30000.0
+Sep 23,Medifast Inc,New,12000.0
+Sep 23,Mind Source,Lost,-10000.0
+Sep 23,Mobilize.Net,Lost,-2900.0
+Sep 23,nCino,Lost,-37000.0
+Sep 23,Niantic,Expansion,4355.0
+Sep 23,Outreach Corporation,Expansion,1125.0
+Sep 23,Play’n GO,Expansion,2000.0
+Sep 23,PMG,New,18760.0
+Sep 23,Race Roster,Lost,-16875.0
+Sep 23,Root Inc,Lost,-50000.0
+Sep 23,SafeGraph,Lost,-6000.0
+Sep 23,Wizeline,Expansion,3005.0
+Sep 23,WorkGenius,Lost,-30000.0
+Oct 23,Adidas,Lost,-15000.0
+Oct 23,Alto Pharmacy,Contraction,-18400.0
+Oct 23,Benchling,Expansion,8000.0
+Oct 23,CashWalk.io,New,10000.0
+Oct 23,Crossover,Expansion,10000.0
+Oct 23,Curai Health,Expansion,8000.0
+Oct 23,Dalhousie University,Expansion,4000.0
+Oct 23,Garda Capital Partners LP,New,19000.0
+Oct 23,Hertz Global Holdings,Expansion,12857.0
+Oct 23,InVita Healthcare Technologies,New,10000.0
+Oct 23,iQmetrix,Lost,-24000.0
+Oct 23,Klaviyo,Expansion,45500.0
+Oct 23,MIM Software,Contraction,-1037.0
+Oct 23,OpenAsset,Expansion,3000.0
+Oct 23,Palisade Research,New,10000.0
+Oct 23,PhonePe,Expansion,1000.0
+Oct 23,Pleo,Expansion,16457.0
+Oct 23,Safeguard Global Inc.,New,25000.0
+Oct 23,SERI-MATS,New,15045.0
+Nov 23,Aquatic Capital Management,New,30000.0
+Nov 23,Autodesk,Expansion,20000.0
+Nov 23,Chime,Expansion,3997.0
+Nov 23,Formation,Expansion,10000.0
+Nov 23,Instacart,Expansion,10000.0
+Nov 23,Stats Perform,Expansion,8000.0
+Nov 23,Uber,Expansion,6684.0
+Nov 23,Verkada,Contraction,-7500.0
+Nov 23,vMOX,Lost,-10000.0
+Dec 23,DDI,New,15840.0
+Dec 23,Justworks,New,15390.0
+Dec 23,Klaviyo,Expansion,9250.0
+Dec 23,NuoDB,Expansion,875.0
+Dec 23,PayPay,Expansion,8150.0
+Dec 23,Rx Savings Solutions,Contraction,-6520.0
+Dec 23,TechTrust,New,22658.0
+Dec 23,Teknoir - DO NOT SELL,New,5000.0
+Dec 23,Trusted Health,Lost,-7500.0
+Dec 23,Uniswap,Expansion,6000.0
+Jan 24,2U,Contraction,-16153.0
+Jan 24,Abnormal AI,Expansion,2500.0
+Jan 24,Egen,Expansion,2500.0
+Jan 24,Faire,Lost,-33000.0
+Jan 24,FICO,Expansion,15089.0
+Jan 24,Greenhouse,Expansion,2900.0
+Jan 24,GreenShield Labs,New,16200.0
+Jan 24,"HireQuick, Inc. (InstaJob)",New,13000.0
+Jan 24,Hiya,Lost,-7500.0
+Jan 24,Hubly,Lost,-10001.0
+Jan 24,Liberty Mutual Insurance,Expansion,14836.0
+Jan 24,Luminar Technologies,Lost,-10000.0
+Jan 24,Motive Technologies,Expansion,971.0
+Jan 24,Neology,New,18219.0
+Jan 24,Notion,Expansion,5000.0
+Jan 24,Odido,New,10000.0
+Jan 24,OpenAsset,Expansion,4000.0
+Jan 24,PayPay,Expansion,27463.0
+Jan 24,Planning Center,New,15000.0
+Jan 24,PrizePicks,New,19000.0
+Jan 24,Riziv Inami,Expansion,319.0
+Jan 24,Roadie,Lost,-24000.0
+Jan 24,Sales-Hub,New,13000.0
+Jan 24,The Marcy Lab School,Expansion,4570.0
+Jan 24,VEDA Data Solutions,New,12000.0
+Jan 24,Watershed Informatics,Expansion,2800.0
+Feb 24,Anthropic,Expansion,139051.0
+Feb 24,Capicua,Lost,-3000.0
+Feb 24,Cue Health,Lost,-36375.0
+Feb 24,Elastic,Lost,-84923.0
+Feb 24,Emburse,Expansion,3000.0
+Feb 24,finalsite,Lost,-6000.0
+Feb 24,Pattern Jobs,Lost,-10000.0
+Feb 24,PayPay,Expansion,23237.0
+Feb 24,PMG,Expansion,6000.0
+Feb 24,Podium,Lost,-25000.0
+Feb 24,Sanofi,Expansion,27556.0
+Feb 24,The Trade Desk,Expansion,4250.0
+Feb 24,Two Men And A Truck/International,Lost,-7000.0
+Feb 24,WW,Expansion,7800.0
+Feb 24,Yugabyte,Contraction,-2334.0
+Mar 24,4PSA,New,16500.0
+Mar 24,Agoda.com,Lost,-61000.0
+Mar 24,Alignment Research Center,Contraction,-2376.0
+Mar 24,Arctic Wolf,Expansion,11000.0
+Mar 24,Calibrate,Lost,-11500.0
+Mar 24,ClimateAI,Lost,-10000.0
+Mar 24,Elastic,New,50515.0
+Mar 24,FloQast,Contraction,-5000.0
+Mar 24,Helm.ai,Expansion,2000.0
+Mar 24,Hi-Rez Studios,Lost,-15000.0
+Mar 24,Hudson River Trading,Expansion,18000.0
+Mar 24,Integra FEC,New,5000.0
+Mar 24,Iterable,Contraction,-24001.0
+Mar 24,Parallel Systems,Lost,-12800.0
+Mar 24,PayJunction,Lost,-10000.0
+Mar 24,Roblox,Expansion,54550.0
+Mar 24,SERI-MATS,Expansion,15045.0
+Mar 24,STG Consulting,Lost,-10000.0
+Mar 24,The Boring Company,Lost,-19000.0
+Mar 24,Twitch,New,64945.0
+Mar 24,UnitedHealth Group,New,150000.0
+Mar 24,Upbound,Expansion,1000.0
+Mar 24,Vouch Insurance,Contraction,-5000.0
+Mar 24,Watershed,New,10800.0
+Mar 24,WebMD,New,21110.0
+Apr 24,Actriv Healthcare,Lost,-21500.0
+Apr 24,Arundo Analytics,Lost,-11500.0
+Apr 24,Autodesk,Expansion,15998.0
+Apr 24,Bloom Institute of Technology,Contraction,-19700.0
+Apr 24,Bungie,Lost,-47138.0
+Apr 24,CivilGEO,Expansion,3250.0
+Apr 24,Dynamic Signal,Lost,-7500.0
+Apr 24,eBay,Contraction,-19360.0
+Apr 24,FlatWorld.co,Lost,-7200.0
+Apr 24,Graphite Health,Lost,-8500.0
+Apr 24,Headway,Expansion,980.0
+Apr 24,HubSpot,Expansion,17906.0
+Apr 24,Korapay,Lost,-8500.0
+Apr 24,MBO Partners,Lost,-25000.0
+Apr 24,Opal Security,New,11700.0
+Apr 24,Rappi,Expansion,10000.0
+Apr 24,Samaya AI,New,11700.0
+Apr 24,Supernal,New,10000.0
+Apr 24,TalentNeuron,New,13200.0
+Apr 24,Upwork,Lost,-64000.0
+May 24,Advantis Global,Expansion,300.0
+May 24,AQR,Expansion,5000.0
+May 24,Asana,Contraction,-5500.0
+May 24,Feedzai,Expansion,1000.0
+May 24,"Govolution, LLC",New,2332.0
+May 24,GovSpend,Lost,-5800.0
+May 24,Hertz Global Holdings,Contraction,-12857.0
+May 24,HiBob,New,12500.0
+May 24,Intropic,Lost,-10000.0
+May 24,Justworks,Expansion,12312.0
+May 24,JW Player,Expansion,1000.0
+May 24,Kohlberg Kravis Roberts & Co. L.P.,Expansion,1000.0
+May 24,Netflix,Expansion,13500.0
+May 24,Olympus Corporation of the Americas,Lost,-17710.0
+May 24,PatientPoint,Expansion,2000.0
+May 24,Pleo,Expansion,6068.0
+May 24,Prysm,Lost,-10000.0
+May 24,RSR Group,New,5000.0
+May 24,Shipt,Lost,-35000.0
+May 24,Speechify,Lost,-9000.0
+May 24,US Bank,New,68500.0
+May 24,Workfront,Lost,-12500.0
+May 24,ZipRecruiter,Contraction,-10000.0
+Jun 24,Aiphone,New,22259.0
+Jun 24,Anitian,Lost,-7000.0
+Jun 24,Atom Finance,Lost,-8000.0
+Jun 24,ColorStack,New,28566.0
+Jun 24,D. E. Shaw & Co.,Expansion,12240.0
+Jun 24,Duolingo,Expansion,7660.0
+Jun 24,Ebury,New,12852.0
+Jun 24,Egen,Expansion,18076.0
+Jun 24,Improving,New,37274.0
+Jun 24,Kaseya,Lost,-16500.0
+Jun 24,Liftoff,Lost,-9000.0
+Jun 24,Linktree,New,14000.0
+Jun 24,PayPay,Expansion,30400.0
+Jun 24,Pear VC,Expansion,1700.0
+Jun 24,Picsart,Lost,-11000.0
+Jun 24,Ramp,Expansion,15875.0
+Jun 24,Robinhood,Expansion,3250.0
+Jun 24,The Boston Consulting Group,Expansion,72332.0
+Jun 24,Zillow,New,70000.0
+Jul 24,Altruist,New,13000.0
+Jul 24,AmaliTech,Expansion,1000.0
+Jul 24,APEX LOGIC,Lost,-7000.0
+Jul 24,Ascend.io,Lost,-9000.0
+Jul 24,Cegedim,New,5332.0
+Jul 24,FICO,Expansion,17545.0
+Jul 24,HashiCorp,New,86205.0
+Jul 24,Instabase,Expansion,4000.0
+Jul 24,InstaDeep,New,9000.0
+Jul 24,Luma AI,New,10000.0
+Jul 24,Match Group,Expansion,7560.0
+Jul 24,Mysten Labs,Lost,-10000.0
+Jul 24,Oscar Health,Expansion,1993.0
+Jul 24,Rappi,Lost,-30000.0
+Jul 24,Redesign Health,Lost,-19000.0
+Jul 24,Roman Health Ventures Inc.,Contraction,-8000.0
+Jul 24,Spotnana Technology,Lost,-25000.0
+Jul 24,Stellar Development Foundation,Expansion,1001.0
+Jul 24,Twelve Labs,New,8000.0
+Jul 24,VAST,Expansion,5000.0
+Jul 24,Western Governors University,New,126000.0
+Jul 24,xAI,New,506000.0
+Jul 24,Yoco Technologies (PTY) Ltd,Expansion,1000.0
+Aug 24,Abnormal AI,Expansion,13200.0
+Aug 24,Airkit,Lost,-7500.0
+Aug 24,Charlie Health,New,32768.0
+Aug 24,FloQast,Expansion,2644.0
+Aug 24,Lucid,Contraction,-4000.0
+Aug 24,Neuralink,New,12000.0
+Aug 24,Orum,New,16284.0
+Aug 24,Samsara,Lost,-23400.0
+Aug 24,Susquehanna International Group,Expansion,5000.0
+Aug 24,Tiger Global Management,New,10664.0
+Aug 24,Yugabyte,Expansion,1143.0
+Sep 24,4PSA,Expansion,1320.0
+Sep 24,Array,Expansion,4000.0
+Sep 24,b2broker,Expansion,10000.0
+Sep 24,Built,Contraction,-32799.0
+Sep 24,CakeResume,Lost,-8000.0
+Sep 24,Coinbase,Expansion,20000.0
+Sep 24,Cube Dev,Expansion,5446.0
+Sep 24,Dropbox,Expansion,55000.0
+Sep 24,Instacart,Expansion,2997.0
+Sep 24,Juniper Square,Expansion,2000.0
+Sep 24,Medifast Inc,Lost,-12000.0
+Sep 24,Niantic,Expansion,5967.0
+Sep 24,Play’n GO,Expansion,2102.0
+Sep 24,PMG,Expansion,11360.0
+Sep 24,VoltAI,New,6000.0
+Sep 24,WebMD,Expansion,9382.0
+Sep 24,Wizeline,Expansion,1984.0
+Sep 24,Zip,New,16000.0
+Sep 24,Zoom,Expansion,9000.0
+Oct 24,Anthropic,Expansion,49599.0
+Oct 24,Benchling,Lost,-19000.0
+Oct 24,CashWalk.io,Expansion,18500.0
+Oct 24,Cradlepoint,Contraction,-37500.0
+Oct 24,Crossover,Expansion,3600.0
+Oct 24,Garda Capital Partners LP,Lost,-19000.0
+Oct 24,Gem,New,21000.0
+Oct 24,Gusto,Expansion,1875.0
+Oct 24,Hello Innovation,New,20000.0
+Oct 24,InVita Healthcare Technologies,Expansion,12000.0
+Oct 24,Koddi,New,18450.0
+Oct 24,Kohlberg Kravis Roberts & Co. L.P.,Expansion,16586.0
+Oct 24,Lucid,Expansion,3960.0
+Oct 24,Match Group,Expansion,19125.0
+Oct 24,OpenAsset,Expansion,1000.0
+Oct 24,Robinhood,Expansion,9000.0
+Oct 24,Safe Superintelligence Inc. (SSI),New,22850.0
+Oct 24,Safeguard Global Inc.,Lost,-25000.0
+Oct 24,The Boston Consulting Group,Expansion,20000.0
+Nov 24,Anomali,New,10000.0
+Nov 24,Aquatic Capital Management,Lost,-30000.0
+Nov 24,Arcadia Impact,New,11500.0
+Nov 24,Chime,Expansion,5047.0
+Nov 24,Ebury,Expansion,2040.0
+Nov 24,Engineers Gate,New,10710.0
+Nov 24,EvolutionaryScale,New,12000.0
+Nov 24,Google,Expansion,89681.0
+Nov 24,Headway,Expansion,19600.0
+Nov 24,Reddit,Expansion,2400.0
+Nov 24,Uber,Expansion,6884.0
+Nov 24,Wolfjaw Studios,New,23000.0
+Dec 24,Alto Pharmacy,Expansion,6750.0
+Dec 24,CLEAR,New,16860.0
+Dec 24,Flagship Pioneering,New,18125.0
+Dec 24,Justworks,Contraction,-17702.0
+Dec 24,Klaviyo,Expansion,16250.0
+Dec 24,PayPay,Expansion,10839.0
+Dec 24,Rx Savings Solutions,Lost,-32480.0
+Dec 24,Survey Monkey,Expansion,945.0
+Dec 24,TechTrust,Lost,-22658.0
+Dec 24,Teknoir - DO NOT SELL,Lost,-5000.0
+Dec 24,Western Governors University,Expansion,180000.0
+Jan 25,Abnormal AI,Expansion,2499.0
+Jan 25,Capital One,Expansion,150000.0
+Jan 25,Egen,Contraction,-7211.0
+Jan 25,Greenhouse,Expansion,3000.0
+Jan 25,"HireQuick, Inc. (InstaJob)",Lost,-13000.0
+Jan 25,Mastercard,Expansion,5800.0
+Jan 25,Motive Technologies,Expansion,1529.0
+Jan 25,Neology,Contraction,-1419.0
+Jan 25,Nextdoor,Expansion,25930.0
+Jan 25,PayPay,Contraction,-12463.0
+Jan 25,Planning Center,Lost,-15000.0
+Jan 25,PrizePicks,Lost,-19000.0
+Jan 25,Rithm School,Lost,-8000.0
+Jan 25,SailPoint,New,25270.0
+Jan 25,Sales-Hub,Lost,-13000.0
+Jan 25,Shipt,New,34330.0
+Jan 25,UnitedHealth Group,Expansion,45000.0
+Jan 25,VEDA Data Solutions,Lost,-12000.0
+Jan 25,WebMD,Expansion,22836.0
+Feb 25,Anthropic,Expansion,25056.0
+Feb 25,Blue Trail Software,Lost,-9000.0
+Feb 25,Fivetran,New,51513.0
+Feb 25,LOGIGROUP,Expansion,1000.0
+Feb 25,Lucid,Expansion,1100.0
+Feb 25,Luma AI,Expansion,3800.0
+Feb 25,Maqta Gateway,Expansion,15000.0
+Feb 25,Nelly,Expansion,450.0
+Feb 25,PayPay,Expansion,10763.0
+Feb 25,Redwood Research,New,11600.0
+Feb 25,SevenRooms,Expansion,300.0
+Feb 25,The National Security Group,New,4008.0
+Feb 25,The Trade Desk,Expansion,27505.0
+Feb 25,Visa,Expansion,209000.0
+Feb 25,WW,Lost,-25000.0
+Feb 25,Yugabyte,Contraction,-9.0
+Mar 25,4PSA,Lost,-17820.0
+Mar 25,Alignment Research Center,Lost,-21384.0
+Mar 25,Alteryx,New,39881.0
+Mar 25,Amazon,New,300000.0
+Mar 25,Auger,New,20000.0
+Mar 25,Blockdaemon,New,14500.0
+Mar 25,Cedar,New,25473.0
+Mar 25,Coinbase,Expansion,40000.0
+Mar 25,Crossover,Expansion,41206.0
+Mar 25,Dropbox,Expansion,58800.0
+Mar 25,Elastic,Contraction,-24515.0
+Mar 25,FloQast,Expansion,4381.0
+Mar 25,Found,Expansion,400.0
+Mar 25,Hudson River Trading,Expansion,4950.0
+Mar 25,Humanetics Innovative Solutions,Lost,-19000.0
+Mar 25,Integra FEC,Expansion,5000.0
+Mar 25,Iterable,Contraction,-16049.0
+Mar 25,meta,Expansion,75000.0
+Mar 25,Roblox,Expansion,10000.0
+Mar 25,RXNT,Expansion,1000.0
+Mar 25,Scientific Games,Expansion,1500.0
+Mar 25,The Marcy Lab School,Expansion,4230.0
+Mar 25,Twelve Labs,Expansion,1500.0
+Mar 25,Upbound,Lost,-10000.0
+Mar 25,Vooban,Contraction,-5000.0
+Mar 25,Vouch Insurance,Contraction,-7000.0
+Mar 25,Watershed,Expansion,2200.0
+Mar 25,WebMD,Expansion,11282.0
+Apr 25,Bloom Institute of Technology,Contraction,-2542.0
+Apr 25,Chainalysis,New,35370.0
+Apr 25,CivilGEO,Lost,-18250.0
+Apr 25,Code.org,Contraction,-2960.0
+Apr 25,Cube Dev,Expansion,554.0
+Apr 25,Demandbase,New,21094.0
+Apr 25,DevRev,Lost,-16000.0
+Apr 25,eBay,Expansion,30080.0
+Apr 25,Eventual,New,25350.0
+Apr 25,EvolutionaryScale,Expansion,9263.0
+Apr 25,Handshake,New,36221.0
+Apr 25,Headway,Contraction,-6220.0
+Apr 25,HubSpot,Expansion,63279.0
+Apr 25,ModivCare,New,59040.0
+Apr 25,Nimble Gravity,Lost,-15000.0
+Apr 25,Opal Security,Lost,-11700.0
+Apr 25,Samaya AI,Lost,-11700.0
+Apr 25,Supernal,Lost,-10000.0
+Apr 25,TalentNeuron,Lost,-13200.0
+Apr 25,TikTok,New,528351.0
+Apr 25,Twelve Labs,Expansion,900.0
+Apr 25,Washington State Labor & Industries,Expansion,6900.0
+May 25,Advantis Global,Expansion,1650.0
+May 25,Arcadia Impact,Expansion,5227.0
+May 25,Feedzai,Expansion,1800.0
+May 25,"Govolution, LLC",Lost,-2332.0
+May 25,Hertz Global Holdings,Expansion,4307.0
+May 25,HiBob,Expansion,3235.0
+May 25,JW Player,Contraction,-1000.0
+May 25,Kohlberg Kravis Roberts & Co. L.P.,Contraction,-6228.0
+May 25,Locus,New,21780.0
+May 25,Moloco Ads,Expansion,3000.0
+May 25,Netflix,Expansion,7300.0
+May 25,PatientPoint,Expansion,2145.0
+May 25,Pleo,Contraction,-4465.0
+May 25,PMG,Expansion,6600.0
+May 25,Quora,Expansion,5000.0
+May 25,RSR Group,Expansion,5000.0
+May 25,SERI-MATS,Expansion,16830.0
+May 25,StubHub,Contraction,-9417.0
+May 25,ZipRecruiter,Expansion,2800.0
+Jun 25,Aiphone,Lost,-22259.0
+Jun 25,Calendly,New,50951.0
+Jun 25,Capital One,Expansion,139915.0
+Jun 25,ColorStack,Lost,-28566.0
+Jun 25,D. E. Shaw & Co.,Contraction,-56683.0
+Jun 25,Duolingo,Lost,-45960.0
+Jun 25,Ebury,Expansion,1095.0
+Jun 25,Empirico,Lost,-10000.0
+Jun 25,Engineers Gate,Expansion,8836.0
+Jun 25,Improving,Lost,-37274.0
+Jun 25,Justworks,Expansion,20000.0
+Jun 25,Magic,New,45000.0
+Jun 25,Mistral AI,New,29663.0
+Jun 25,Omnicell,New,38376.0
+Jun 25,Pear VC,Lost,-11700.0
+Jun 25,Quince,New,87600.0
+Jun 25,Ramp,Expansion,15700.0
+Jun 25,Robinhood,Lost,-77250.0
+Jun 25,The Boston Consulting Group,Expansion,29835.0
+Jun 25,Zillow,Lost,-70000.0
+Jul 25,Altruist,Lost,-13000.0
+Jul 25,AmaliTech,Lost,-6000.0
+Jul 25,Cegedim,Expansion,5332.0
+Jul 25,Circle,Lost,-125500.0
+Jul 25,Dandy,Expansion,15499.0
+Jul 25,HashiCorp,Lost,-86205.0
+Jul 25,Instabase,Lost,-15189.0
+Jul 25,InstaDeep,Lost,-9000.0
+Jul 25,Luma AI,Lost,-13800.0
+Jul 25,Match Group,Expansion,10565.0
+Jul 25,Outtalent,Lost,-3000.0
+Jul 25,Roman Health Ventures Inc.,Expansion,1600.0
+Jul 25,Stellar Development Foundation,Lost,-17001.0
+Jul 25,Twelve Labs,Lost,-10400.0
+Jul 25,VAST,Lost,-12000.0
+Jul 25,Yoco Technologies (PTY) Ltd,Lost,-11000.0
+Aug 25,Autodesk,Lost,-60998.0
+Aug 25,Banxware,Lost,-7000.0
+Aug 25,Charlie Health,Expansion,1188.0
+Aug 25,Lucid,Contraction,-3060.0
+Aug 25,Neuralink,Lost,-12000.0
+Aug 25,Orum,Lost,-16284.0
+Aug 25,Radar,Lost,-10000.0
+Aug 25,Susquehanna International Group,Lost,-55000.0
+Aug 25,Tiger Global Management,Expansion,4570.0
+Aug 25,Vana,Lost,-7333.0
+Aug 25,VoltaGrid,Lost,-10000.0
+Sep 25,Array,Lost,-13000.0
+Sep 25,b2broker,Lost,-25000.0
+Sep 25,Built,Lost,-27201.0
+Sep 25,Clear Street,Expansion,2000.0
+Sep 25,ClickUp,Expansion,1500.0
+Sep 25,Coinbase,Lost,-340000.0
+Sep 25,Dropbox,Lost,-693800.0
+Sep 25,Forge,Lost,-10000.0
+Sep 25,Graystone Trading,Lost,-12000.0
+Sep 25,Innovit,Lost,-5000.0
+Sep 25,Instacart,Expansion,2500.0
+Sep 25,Juniper Square,Expansion,3000.0
+Sep 25,Kwalee,Lost,-30000.0
+Sep 25,Modern Treasury,Lost,-22500.0
+Sep 25,Niantic,Lost,-53872.0
+Sep 25,Outreach Corporation,Lost,-13125.0
+Sep 25,Play’n GO,Expansion,2203.0
+Sep 25,PMG,Lost,-42720.0
+Sep 25,"Vectra AI, Inc.",Lost,-25000.0
+Sep 25,VoltAI,Expansion,4000.0
+Sep 25,WEBB Traders,Lost,-7000.0
+Sep 25,Wizeline,Lost,-41656.0
+Sep 25,Zip,Expansion,800.0
+Sep 25,Zoom,Lost,-189000.0
+Oct 25,Alto Pharmacy,Lost,-17050.0
+Oct 25,CashWalk.io,Lost,-28500.0
+Oct 25,Cohesity,Expansion,4000.0
+Oct 25,Cradlepoint,Lost,-20000.0
+Oct 25,Crossover,Contraction,-48606.0
+Oct 25,Curai Health,Lost,-19000.0
+Oct 25,Dalhousie University,Lost,-23000.0
+Oct 25,Ethos,Lost,-8875.0
+Oct 25,Gem,Lost,-21000.0
+Oct 25,Gusto,Expansion,1339.0
+Oct 25,Hello Innovation,Lost,-20000.0
+Oct 25,InVita Healthcare Technologies,Lost,-22000.0
+Oct 25,Koddi,Lost,-18450.0
+Oct 25,MIM Software,Lost,-8113.0
+Oct 25,OpenAsset,Lost,-14000.0
+Oct 25,Palisade Research,Lost,-10000.0
+Oct 25,PhonePe,Lost,-25000.0
+Oct 25,Safe Superintelligence Inc. (SSI),Expansion,37420.0
+Oct 25,The Boston Consulting Group,Contraction,-20000.0
+Nov 25,Anomali,Lost,-10000.0
+Nov 25,Arcadia Impact,Lost,-16727.0
+Nov 25,Chime,Lost,-58044.0
+Nov 25,Engineers Gate,Lost,-19546.0
+Nov 25,EvolutionaryScale,Lost,-21263.0
+Nov 25,Formation,Lost,-19000.0
+Nov 25,Kaizen Gaming,Expansion,1919.0
+Nov 25,Reddit,Lost,-32400.0
+Nov 25,SERI-MATS,Lost,-46920.0
+Nov 25,Stats Perform,Expansion,1520.0
+Nov 25,Toyota,Expansion,9750.0
+Nov 25,Uber,Lost,-236357.0
+Nov 25,Verkada,Expansion,2125.0
+Nov 25,Wolfjaw Studios,Lost,-23000.0
+Dec 25,CLEAR,Expansion,4215.0
+Dec 25,DDI,Lost,-15840.0
+Dec 25,Flagship Pioneering,Lost,-18125.0
+Dec 25,Justworks,Lost,-30000.0
+Dec 25,Klaviyo,Lost,-115000.0
+Dec 25,NuoDB,Lost,-16875.0
+Dec 25,PayPay,Contraction,-56489.0
+Dec 25,RE Partners,Lost,-13000.0
+Dec 25,Survey Monkey,Lost,-32445.0
+Dec 25,Uniswap,Expansion,3000.0
+Dec 25,Western Governors University,Contraction,-180000.0
+Jan 26,2U,Lost,-72447.0
+Jan 26,Abnormal AI,Lost,-38199.0
+Jan 26,Capital One,Expansion,26585.0
+Jan 26,Egen,Lost,-40365.0
+Jan 26,Google,Contraction,-89681.0
+Jan 26,Greenhouse,Lost,-10900.0
+Jan 26,GreenShield Labs,Lost,-16200.0
+Jan 26,Mastercard,Expansion,4900.0
+Jan 26,Motive Technologies,Lost,-19500.0
+Jan 26,Neology,Lost,-16800.0
+Jan 26,Nextdoor,Lost,-48240.0
+Jan 26,Notion,Lost,-35000.0
+Jan 26,Odido,Lost,-10000.0
+Jan 26,PayPay,Contraction,-15000.0
+Jan 26,Riziv Inami,Lost,-11319.0
+Jan 26,SailPoint,Lost,-25270.0
+Jan 26,Shipt,Lost,-34330.0
+Jan 26,Softwire,Lost,-10000.0
+Jan 26,UnitedHealth Group,Expansion,9000.0
+Jan 26,Velocity Clinical Research,Lost,-13000.0
+Jan 26,Watershed Informatics,Lost,-10000.0
